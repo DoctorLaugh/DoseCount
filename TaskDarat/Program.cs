@@ -1,0 +1,11 @@
+﻿Console.Clear();
+Console.WriteLine("Введите месячную дозу в мг");
+int monthdosemg = int.Parse(Console.ReadLine());
+int bigmonthdoseFL = monthdosemg / 400;
+int litmonthdoseFL = (monthdosemg % 400) / 100;
+int bigmonthdoseml = bigmonthdoseFL * 20;
+int litmonthdoseml = litmonthdoseFL * 5;
+int monthdoseml = bigmonthdoseml + litmonthdoseml;
+int yeardoseml = monthdoseml * 12;
+Console.WriteLine($"Месячная доза: {bigmonthdoseFL * 20} мл по 20 мл и {litmonthdoseFL * 5} мл по 5 мл - {monthdoseml} мл");
+Console.WriteLine($"Годовая доза: {bigmonthdoseFL * 12 * 20} мл по 20 мл и {litmonthdoseFL * 12 * 5} мл по 5 мл - {yeardoseml} мл");

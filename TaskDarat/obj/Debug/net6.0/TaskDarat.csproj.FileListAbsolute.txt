@@ -1,0 +1,15 @@
+E:\Dose Count\TaskDarat\bin\Debug\net6.0\TaskDarat.exe
+E:\Dose Count\TaskDarat\bin\Debug\net6.0\TaskDarat.deps.json
+E:\Dose Count\TaskDarat\bin\Debug\net6.0\TaskDarat.runtimeconfig.json
+E:\Dose Count\TaskDarat\bin\Debug\net6.0\TaskDarat.dll
+E:\Dose Count\TaskDarat\bin\Debug\net6.0\TaskDarat.pdb
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.csproj.AssemblyReference.cache
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.AssemblyInfoInputs.cache
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.AssemblyInfo.cs
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.csproj.CoreCompileInputs.cache
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.dll
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\refint\TaskDarat.dll
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.pdb
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\TaskDarat.genruntimeconfig.cache
+E:\Dose Count\TaskDarat\obj\Debug\net6.0\ref\TaskDarat.dll
